@@ -92,7 +92,7 @@ ORDER BY churn_rate_pct DESC
 ---
 
 ## 📈 Dashboard (Looker Studio)
-**[🔗 View Live Dashboard](#)** ← ganti dengan link Looker Studio kamu
+**[🔗https://datastudio.google.com/reporting/b47ed256-713f-4953-9e72-2e0205ad67e9]** 
 
 Key visualizations:
 - KPI Scorecards: Total Customers, Total Churned, Churn Rate

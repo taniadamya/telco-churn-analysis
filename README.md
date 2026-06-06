@@ -128,4 +128,4 @@ Key visualizations:
 ## 👩‍💻 Author
 **Tania Damayanti**  
 Data Analyst | Python • SQL • Looker Studio • Tableau • Power BI  
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](www.linkedin.com/in/taniadamayanti) • [GitHub](github.com/taniadamya)
